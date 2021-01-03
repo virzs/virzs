@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 **Languages:**
 
-<code><img height="20" src="https://simpleicons.org/icons/vue-dot-js.svg"></code>
+<code><img height="20" style="filter:drop-shadow(60px 0 0 #4FC08D);" src="https://simpleicons.org/icons/vue-dot-js.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/react.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/typescript.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/json.svg"></code>
+<code><img height="20" style="filter:#000000;" src="https://simpleicons.org/icons/markdown.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/nestjs.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/mysql.svg"></code>
