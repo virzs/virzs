@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 **Most Used Language**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&theme=cobalt&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&theme=cobalt)
 
 **WakaTime：**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=cobalt)
 
 **Languages and Tools:**
 
