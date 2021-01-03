@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=virzs&theme=cobalt&show_icons=true&locale=cn)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&theme=cobalt&locale=cn&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=virzs&theme=cobalt&locale=cn)
+![](https://github-readme-stats.vercel.app/api?username=virzs&show_icons=true&locale=cn)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&locale=cn&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=virzs)
 
 **Languages and Tools:**
 
