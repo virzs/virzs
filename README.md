@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 -->
 **Github Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=virzs&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=virzs&theme=cobalt&show_icons=true)
 
 **Most Used Language**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virzs&theme=cobalt&show_icons=true)
+
+**WakaTime：**
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**
 
@@ -29,7 +33,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**WakaTime:**
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
