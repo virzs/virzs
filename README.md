@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/webstorm.svg"></code>
 
+**WakaTime:**
+
   <!--START_SECTION:waka-->
 ```text
 TypeScript   4 hrs 12 mins   ████████████████████████▒   97.21 % 
