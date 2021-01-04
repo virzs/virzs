@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/webstorm.svg"></code>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+TypeScript   4 hrs 12 mins   ████████████████████████▒   97.21 % 
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+<!--END_SECTION:waka-->
