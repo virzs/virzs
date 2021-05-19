@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:waka-->
 ```text
-TypeScript   21 hrs 13 mins  █████████████████▓░░░░░░░   70.08 % 
-Dart         4 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-LESS         1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript   15 hrs 13 mins  ███████████████░░░░░░░░░░   59.43 % 
+Dart         6 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
+LESS         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+YAML         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 <!--END_SECTION:waka-->
