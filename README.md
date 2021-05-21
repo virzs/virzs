@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/nestjs.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/mongodb.svg"></code>
 
 **Tools:**
 
 <code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/webstorm.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/androidstudio.svg"></code>
 
 **WakaTime:**
 
