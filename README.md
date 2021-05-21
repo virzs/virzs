@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://simpleicons.org/icons/javascript.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/typescript.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/json.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/dart.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/flutter.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/markdown.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/nestjs.svg"></code>
