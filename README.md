@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   44.75 % 
-Dart         3 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 % 
-JavaScript   2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-JSX          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-YAML         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+TypeScript   8 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.11 % 
+Dart         3 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+JavaScript   2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+JSX          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+YAML         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 <!--END_SECTION:waka-->
