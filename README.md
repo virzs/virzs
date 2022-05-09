@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=virzs)
 
+<figure><embed src="https://wakatime.com/share/@virzs/224ee5ac-068f-4cd6-ab72-94de7f6bef4a.svg"></embed></figure>
