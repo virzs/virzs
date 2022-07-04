@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=virzs&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=virzs)
-
-![github-user-contribution](https://user-images.githubusercontent.com/44538687/171379166-c933f28d-06cf-4074-85bf-10e583564fac.svg)
